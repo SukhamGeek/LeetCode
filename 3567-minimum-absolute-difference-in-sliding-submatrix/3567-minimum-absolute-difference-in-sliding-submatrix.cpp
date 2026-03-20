@@ -3,9 +3,9 @@ public:
     vector<vector<int>> minAbsDiff(vector<vector<int>>& grid, int k) {
         int m= grid.size();
         int n= grid[0].size();
-        vector<vector<int>> vec(m-k+1, vector<int>(n-k+1,INT_MAX));
+        vector<vector<int>> vec(m-k+1, vector<int>(n-k+1));
         if(k==1){
-            vec.assign(m-k+1, vector<int>(n-k+1, 0));
+            return vec;
         }
         for(int i=0; i<m-k+1; i++){
             for(int j=0; j<n-k+1; j++){
@@ -16,11 +16,11 @@ public:
                     }
                 }
                 sort(c.begin(),c.end());
+                int diff= INT_MAX;
                 for(int p=0; p<c.size()-1; p++){
-                    if((c[p+1]-c[p])<vec[i][j]&&(c[p+1]-c[p])!=0){
-                        vec[i][j]= c[p+1]- c[p];
-                    }
+                    if(c[p+1]!= c[p]) diff= min(diff, c[p+1]- c[p]);
                 }
+                vec[i][j]= diff;
                 if(vec[i][j]==INT_MAX){
                     vec[i][j]=0;
                 }
