@@ -19,7 +19,6 @@ public:
         if(o>=k) return "";
         if(size==n){
             o++;
-            cout<<s<<" "<<o<<endl;
             return s;
         }
         if(s[size-1]=='a'){
