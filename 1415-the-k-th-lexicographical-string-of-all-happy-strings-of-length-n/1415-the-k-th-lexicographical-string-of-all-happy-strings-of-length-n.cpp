@@ -16,6 +16,7 @@ public:
         return "";
     }
     string helper(int n, int k, string s, int size, int& o){
+        if(o>=k) return "";
         if(size==n){
             o++;
             cout<<s<<" "<<o<<endl;
