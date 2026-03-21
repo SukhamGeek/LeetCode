@@ -8,9 +8,9 @@ public:
         }
         int a=0;
         string ans=helper(n, k, "a", 1, a);
-        if(a==k&&ans!="") return ans;
+        if(a==k) return ans;
         ans=helper(n, k, "b", 1, a);
-        if(a==k&&ans!="") return ans;
+        if(a==k) return ans;
         ans=helper(n, k, "c", 1, a);
         if(a==k) return ans;
         return "";
