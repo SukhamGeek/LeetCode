@@ -5,9 +5,14 @@ public:
         int y=0;
         int p=3;
         int ans= INT_MIN;
-        set<pair<int,int>>st;
+        struct hash_pair {
+            size_t operator()(const pair<int,int>& p) const {
+                return hash<int>()(p.first) ^ (hash<int>()(p.second) << 1);
+            }
+        };
+        unordered_map<pair<int,int>, int, hash_pair> mpp;
         for(int i=0; i<obstacles.size(); i++){
-            st.insert({obstacles[i][0],obstacles[i][1]});
+            mpp[{obstacles[i][0],obstacles[i][1]}]++;
         }
         for(int i=0; i<commands.size(); i++){
             if(commands[i]==-2){
@@ -22,7 +27,7 @@ public:
                 if(p==0){
                     for(int j=0; j<commands[i]; j++){
                         x++;
-                        if(st.find({x,y})!=st.end()){
+                        if(mpp[{x,y}]>0){
                             x--;
                             break;
                         }
@@ -31,7 +36,7 @@ public:
                 if(p==1){
                     for(int j=0; j<commands[i]; j++){
                         y--;
-                        if(st.find({x,y})!=st.end()){
+                        if(mpp[{x,y}]>0){
                             y++;
                             break;
                         }
@@ -40,7 +45,7 @@ public:
                 if(p==2){
                     for(int j=0; j<commands[i]; j++){
                         x--;
-                        if(st.find({x,y})!=st.end()){
+                        if(mpp[{x,y}]>0){
                             x++;
                             break;
                         }
@@ -49,7 +54,7 @@ public:
                 if(p==3){
                     for(int j=0; j<commands[i]; j++){
                         y++;
-                        if(st.find({x,y})!=st.end()){
+                        if(mpp[{x,y}]>0){
                             y--;
                             break;
                         }
