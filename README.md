@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/SukhamGeek/LeetCode/tree/master/0162-find-peak-element) |
 | [0874-walking-robot-simulation](https://github.com/SukhamGeek/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/SukhamGeek/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SukhamGeek/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SukhamGeek/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/SukhamGeek/LeetCode/tree/master/0162-find-peak-element) |
+| [0875-koko-eating-bananas](https://github.com/SukhamGeek/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Design
 |  |
 | ------- |
