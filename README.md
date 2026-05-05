@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/SukhamGeek/LeetCode/tree/master/0061-rotate-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SukhamGeek/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SukhamGeek/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/SukhamGeek/LeetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
