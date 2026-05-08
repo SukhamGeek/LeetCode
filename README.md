@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SukhamGeek/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/SukhamGeek/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/SukhamGeek/LeetCode/tree/master/0051-n-queens) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/SukhamGeek/LeetCode/tree/master/0162-find-peak-element) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SukhamGeek/LeetCode/tree/master/0048-rotate-image) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SukhamGeek/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SukhamGeek/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/SukhamGeek/LeetCode/tree/master/0048-rotate-image) |
 ## Bit Manipulation
 |  |
 | ------- |
