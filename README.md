@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SukhamGeek/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/SukhamGeek/LeetCode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/SukhamGeek/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/SukhamGeek/LeetCode/tree/master/0051-n-queens) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/SukhamGeek/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/SukhamGeek/LeetCode/tree/master/0051-n-queens) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SukhamGeek/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Math
