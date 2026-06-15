@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SukhamGeek/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/SukhamGeek/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SukhamGeek/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/SukhamGeek/LeetCode/tree/master/0048-rotate-image) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SukhamGeek/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/SukhamGeek/LeetCode/tree/master/0048-rotate-image) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SukhamGeek/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/SukhamGeek/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SukhamGeek/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/SukhamGeek/LeetCode/tree/master/0051-n-queens) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SukhamGeek/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/SukhamGeek/LeetCode/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/SukhamGeek/LeetCode/tree/master/0139-word-break) |
 | [0874-walking-robot-simulation](https://github.com/SukhamGeek/LeetCode/tree/master/0874-walking-robot-simulation) |
 ## Simulation
