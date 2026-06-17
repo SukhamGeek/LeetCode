@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SukhamGeek/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/SukhamGeek/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/SukhamGeek/LeetCode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/SukhamGeek/LeetCode/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/SukhamGeek/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/SukhamGeek/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/SukhamGeek/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/SukhamGeek/LeetCode/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SukhamGeek/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Dynamic Programming
 |  |
