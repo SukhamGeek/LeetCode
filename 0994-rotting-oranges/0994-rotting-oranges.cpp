@@ -20,22 +20,22 @@ public:
             for(int i=0; i<s; i++){
                 auto[a,b]= q.front();
                 q.pop();
-                if((a+1)<m&& grid[a+1][b]!=0 &&grid[a+1][b]!=2){
+                if((a+1)<m&& grid[a+1][b]==1){
                     grid[a+1][b]=2;
                     q.push({a+1,b});
                     count--;
                 } 
-                if((b+1)<n &&grid[a][b+1]!=0 &&grid[a][b+1]!=2){
+                if((b+1)<n &&grid[a][b+1]==1){
                     grid[a][b+1]=2;
                     q.push({a,b+1});
                     count--;
                 } 
-                if((a-1)>=0 &&grid[a-1][b]!=0 &&grid[a-1][b]!=2){
+                if((a-1)>=0 &&grid[a-1][b]==1){
                     grid[a-1][b]=2;
                    q.push({a-1,b});
                    count--;
                 }
-                if((b-1)>=0 &&grid[a][b-1]!=0 &&grid[a][b-1]!=2){
+                if((b-1)>=0 &&grid[a][b-1]==1){
                     grid[a][b-1]=2;
                     q.push({a,b-1});
                     count--;
