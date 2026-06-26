@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SukhamGeek/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/SukhamGeek/LeetCode/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/SukhamGeek/LeetCode/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SukhamGeek/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SukhamGeek/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SukhamGeek/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/SukhamGeek/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SukhamGeek/LeetCode/tree/master/0139-word-break) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SukhamGeek/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/SukhamGeek/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SukhamGeek/LeetCode/tree/master/0139-word-break) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
