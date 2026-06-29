@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/SukhamGeek/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/SukhamGeek/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/SukhamGeek/LeetCode/tree/master/0260-single-number-iii) |
+| [0542-01-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SukhamGeek/LeetCode/tree/master/0733-flood-fill) |
 | [0874-walking-robot-simulation](https://github.com/SukhamGeek/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/SukhamGeek/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/SukhamGeek/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/SukhamGeek/LeetCode/tree/master/0048-rotate-image) |
+| [0542-01-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SukhamGeek/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SukhamGeek/LeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SukhamGeek/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/SukhamGeek/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SukhamGeek/LeetCode/tree/master/0139-word-break) |
+| [0542-01-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/0542-01-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Hash Table
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SukhamGeek/LeetCode/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SukhamGeek/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SukhamGeek/LeetCode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
