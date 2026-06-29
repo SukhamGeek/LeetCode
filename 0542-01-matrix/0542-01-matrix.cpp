@@ -11,6 +11,7 @@ public:
                 if(mat[i][j]==0){
                     q.push({i,j});
                     dp[i][j]=0;
+                    vis[i][j]=1;
                 }
             }
         }
