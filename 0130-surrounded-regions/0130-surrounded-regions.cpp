@@ -34,7 +34,6 @@ public:
     }
     void dfs(int i, int j, vector<vector<char>>& board, vector<vector<int>>& vis, int m, int n){
         if(i<0 || j<0 || i==m || j==n) return;
-        cout<<i<<j<<endl;
         if(vis[i][j]==1) return;
         if(board[i][j]=='X') return;
         vis[i][j]=1;
