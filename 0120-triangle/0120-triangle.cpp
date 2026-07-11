@@ -10,9 +10,8 @@ public:
     int helper(vector<vector<int>>& arr, int i, int j, int& m, vector<vector<int>>& dp){
         if(i==(m-1)) return arr[i][j];
         if(dp[i][j]!= INT_MAX) return dp[i][j];
-        int d2= INT_MAX;
         int d= arr[i][j]+ helper(arr, i+1, j, m, dp);
-        if((j+1)<=(i+1)) d2= arr[i][j]+ helper(arr, i+1, j+1, m, dp);
+        int d2= arr[i][j]+ helper(arr, i+1, j+1, m, dp);
         return dp[i][j]= min(d,d2);
     }
 };
