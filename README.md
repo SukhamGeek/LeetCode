@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/SukhamGeek/LeetCode/tree/master/0260-single-number-iii) |
 | [0542-01-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SukhamGeek/LeetCode/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/SukhamGeek/LeetCode/tree/master/0741-cherry-pickup) |
 | [0874-walking-robot-simulation](https://github.com/SukhamGeek/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/SukhamGeek/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/SukhamGeek/LeetCode/tree/master/0994-rotting-oranges) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/SukhamGeek/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SukhamGeek/LeetCode/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/SukhamGeek/LeetCode/tree/master/0741-cherry-pickup) |
 | [0994-rotting-oranges](https://github.com/SukhamGeek/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SukhamGeek/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/SukhamGeek/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SukhamGeek/LeetCode/tree/master/0139-word-break) |
 | [0542-01-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/0542-01-matrix) |
+| [0741-cherry-pickup](https://github.com/SukhamGeek/LeetCode/tree/master/0741-cherry-pickup) |
 | [1463-cherry-pickup-ii](https://github.com/SukhamGeek/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Hash Table
