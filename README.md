@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/SukhamGeek/LeetCode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/SukhamGeek/LeetCode/tree/master/0207-course-schedule) |
+| [0669-trim-a-binary-search-tree](https://github.com/SukhamGeek/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/SukhamGeek/LeetCode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/SukhamGeek/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SukhamGeek/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -227,4 +228,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SukhamGeek/LeetCode/tree/master/0207-course-schedule) |
+## Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/SukhamGeek/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/SukhamGeek/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/SukhamGeek/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 <!---LeetCode Topics End-->
