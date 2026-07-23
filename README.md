@@ -240,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/SukhamGeek/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SukhamGeek/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
