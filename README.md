@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/SukhamGeek/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/SukhamGeek/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/SukhamGeek/LeetCode/tree/master/0260-single-number-iii) |
+| [0525-contiguous-array](https://github.com/SukhamGeek/LeetCode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SukhamGeek/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/SukhamGeek/LeetCode/tree/master/0733-flood-fill) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/SukhamGeek/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SukhamGeek/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2906-construct-product-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SukhamGeek/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SukhamGeek/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/SukhamGeek/LeetCode/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/SukhamGeek/LeetCode/tree/master/0139-word-break) |
+| [0525-contiguous-array](https://github.com/SukhamGeek/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SukhamGeek/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/SukhamGeek/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/SukhamGeek/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
