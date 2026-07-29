@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SukhamGeek/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SukhamGeek/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0127-word-ladder](https://github.com/SukhamGeek/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/SukhamGeek/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SukhamGeek/LeetCode/tree/master/0139-word-break) |
 | [0657-robot-return-to-origin](https://github.com/SukhamGeek/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SukhamGeek/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/SukhamGeek/LeetCode/tree/master/0037-sudoku-solver) |
+| [0127-word-ladder](https://github.com/SukhamGeek/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/SukhamGeek/LeetCode/tree/master/0139-word-break) |
 | [0525-contiguous-array](https://github.com/SukhamGeek/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SukhamGeek/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/SukhamGeek/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/SukhamGeek/LeetCode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/SukhamGeek/LeetCode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/0542-01-matrix) |
