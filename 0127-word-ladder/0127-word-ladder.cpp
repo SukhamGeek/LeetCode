@@ -45,15 +45,14 @@ public:
             }
             }
         }
-        bool f2= false;
         while(!q.empty()){
             int s= q.size();
-            bool check= false;
             for(int j=0; j<s; j++){
                 int k= q.front();
                 q.pop();
                 if(wordList[k]== endWord){
-                    check= true;
+                    if(flag) return res+1;
+                    return res+2;
                     break;
                 }
                 for(auto it: adj[k]){
@@ -63,14 +62,8 @@ public:
                     } 
                 }               
             }
-            if(check){
-                f2= true;
-                break;
-            } 
             res++;
         }
-        if(!f2) return 0;
-        if(flag) return res+1;
-        return res+2;       
+        return 0;       
     }
 };
