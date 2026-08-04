@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SukhamGeek/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/SukhamGeek/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/SukhamGeek/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/SukhamGeek/LeetCode/tree/master/0260-single-number-iii) |
 | [0525-contiguous-array](https://github.com/SukhamGeek/LeetCode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/0542-01-matrix) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SukhamGeek/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0229-majority-element-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SukhamGeek/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Two Pointers
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/SukhamGeek/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/SukhamGeek/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/SukhamGeek/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/SukhamGeek/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SukhamGeek/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/SukhamGeek/LeetCode/tree/master/0874-walking-robot-simulation) |
@@ -315,8 +318,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SukhamGeek/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SukhamGeek/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
