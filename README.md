@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/SukhamGeek/LeetCode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/SukhamGeek/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/SukhamGeek/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/SukhamGeek/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/SukhamGeek/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/SukhamGeek/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SukhamGeek/LeetCode/tree/master/0169-majority-element) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SukhamGeek/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Two Pointers
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SukhamGeek/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/SukhamGeek/LeetCode/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/SukhamGeek/LeetCode/tree/master/0169-majority-element) |
 | [0525-contiguous-array](https://github.com/SukhamGeek/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SukhamGeek/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/SukhamGeek/LeetCode/tree/master/0874-walking-robot-simulation) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SukhamGeek/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SukhamGeek/LeetCode/tree/master/0169-majority-element) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SukhamGeek/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Enumeration
 |  |
@@ -307,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SukhamGeek/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SukhamGeek/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
