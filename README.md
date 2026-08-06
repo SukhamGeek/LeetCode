@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SukhamGeek/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SukhamGeek/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [3310-remove-methods-from-project](https://github.com/SukhamGeek/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Trie
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/SukhamGeek/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/SukhamGeek/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SukhamGeek/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3310-remove-methods-from-project](https://github.com/SukhamGeek/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/SukhamGeek/LeetCode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/SukhamGeek/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [3310-remove-methods-from-project](https://github.com/SukhamGeek/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
