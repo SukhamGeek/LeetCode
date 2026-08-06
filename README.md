@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/SukhamGeek/LeetCode/tree/master/0204-count-primes) |
 | [1362-closest-divisors](https://github.com/SukhamGeek/LeetCode/tree/master/1362-closest-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/SukhamGeek/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SukhamGeek/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SukhamGeek/LeetCode/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SukhamGeek/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SukhamGeek/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Breadth-First Search
 |  |
