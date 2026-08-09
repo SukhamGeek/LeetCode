@@ -9,13 +9,10 @@ public:
         for(int u = 0; u < n; u++) {
             for(int v : graph[u]) {
                 adj[v].push_back(u);
+                ino[u]++;
             }
         }
-        for(int i=0; i<n; i++){
-            for(auto it: adj[i]){
-                ino[it]++;
-            }
-        }
+
         queue<int>q;
         for(int i=0; i<n; i++){
             if(ino[i]==0) q.push(i);
