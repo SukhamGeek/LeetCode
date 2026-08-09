@@ -6,8 +6,8 @@ public:
         vector<int> ino(numCourses,0);
         queue<int>q;
         for(auto it: prerequisites){
-            adj[it[0]].push_back(it[1]);
-            ino[it[1]]++;
+            adj[it[1]].push_back(it[0]);
+            ino[it[0]]++;
         }
         for(int i=0; i<numCourses; i++){
             if(ino[i]==0) q.push(i);
@@ -21,11 +21,7 @@ public:
                 if(ino[it]==0)q.push(it);
             }
         }
-        if(res.size()==numCourses){
-            reverse(res.begin(), res.end());
-            return res;
-        } 
-        res.clear();
+        if(res.size()!=numCourses) res.clear(); 
         return res;
     }
 };
