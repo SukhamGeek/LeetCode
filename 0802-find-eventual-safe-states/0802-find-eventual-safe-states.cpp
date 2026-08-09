@@ -4,8 +4,8 @@ public:
         int n= graph.size();
         vector<int> ans;
         vector<int> ino(n,0);
+        vector<int> safe(n,0);
         vector<vector<int>> adj(n);
-        vector<vector<bool>> connected(n, vector<bool>(n, false));
         for(int u = 0; u < n; u++) {
             for(int v : graph[u]) {
                 adj[v].push_back(u);
@@ -22,14 +22,17 @@ public:
         }
         while(!q.empty()){
             int k= q.front();
-            ans.push_back(k);
+            safe[k]++;
             q.pop();
             for(auto it: adj[k]){
                 ino[it]--;
                 if(ino[it]==0) q.push(it);
             }
         }
-        sort(ans.begin(), ans.end());
+        for(int i=0; i<n; i++){
+            if(safe[i]==1) ans.push_back(i);
+        }
+  
         return ans;
     }
 };
