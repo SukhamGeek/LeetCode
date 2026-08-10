@@ -1,42 +1,32 @@
 class Solution {
 public:
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
-        int n = grid.size();
-        
-        // Edge Case: Start or end blocked
-        if (grid[0][0] == 1 || grid[n-1][n-1] == 1) return -1;
-        
-        // Edge Case: 1x1 matrix (The one your code currently misses)
-        if (n == 1) return 1;
-
-        queue<pair<int,int>> q;
-        vector<pair<int,int>> dir = {{1,0},{0,1},{1,1},{-1,0},{0,-1},{-1,-1},{-1,1},{1,-1}};
-        
-        q.push({0,0});
-        grid[0][0] = 1; // Mark visited immediately on push
-        int length = 1;
-
-        while(!q.empty()){
-            int size = q.size();
-            for(int i = 0; i < size; i++){
-                auto [x, y] = q.front();
-                q.pop();
-
-                for(auto& it : dir){
-                    int nx = x + it.first;
-                    int ny = y + it.second;
-
-                    // Bound check
-                    if(nx >= 0 && nx < n && ny >= 0 && ny < n && grid[nx][ny] == 0){
-                        // Check if this neighbor is the target
-                        if(nx == n-1 && ny == n-1) return length + 1;
-                        
-                        grid[nx][ny] = 1; // Mark visited
-                        q.push({nx, ny});
+        int n= grid.size();
+        if(grid[0][0]==1 || grid[n-1][n-1]==1) return -1;
+        queue<pair<int,int>> qu;
+        vector<vector<int>> vis(n, vector<int>(n,-1));
+        qu.push({0,0});
+        vis[0][0]=1;
+        int ans=0;
+        bool b=false;
+        while(!qu.empty()){
+            int s= qu.size();
+            for(int i=0; i<s; i++){
+                auto[p,q]= qu.front();
+                qu.pop();
+                if(p==n-1 && q==n-1){
+                    return ans+1;
+                } 
+                for(int l=-1; l<2; l++){
+                    for(int r=-1; r<2; r++){
+                        if(p+l>=0 && p+l<n && q+r>=0 && q+r<n && vis[p+l][q+r]==-1 && grid[p+l][q+r]==0 ){
+                            qu.push({p+l, q+r});
+                            vis[p+l][q+r]=1;
+                        }
                     }
-                }
+                } 
             }
-            length++;
+            ans++;
         }
         return -1;
     }
