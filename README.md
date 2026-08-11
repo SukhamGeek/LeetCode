@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/SukhamGeek/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/SukhamGeek/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SukhamGeek/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1861-rotating-the-box](https://github.com/SukhamGeek/LeetCode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SukhamGeek/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/SukhamGeek/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/SukhamGeek/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1861-rotating-the-box](https://github.com/SukhamGeek/LeetCode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SukhamGeek/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/SukhamGeek/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/SukhamGeek/LeetCode/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/SukhamGeek/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1631-path-with-minimum-effort](https://github.com/SukhamGeek/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Design
 |  |
 | ------- |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SukhamGeek/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SukhamGeek/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/SukhamGeek/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [3310-remove-methods-from-project](https://github.com/SukhamGeek/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Trie
 |  |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/SukhamGeek/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/SukhamGeek/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/SukhamGeek/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/SukhamGeek/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SukhamGeek/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3310-remove-methods-from-project](https://github.com/SukhamGeek/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -255,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SukhamGeek/LeetCode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/SukhamGeek/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/SukhamGeek/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/SukhamGeek/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SukhamGeek/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Linked List
 |  |
@@ -352,4 +358,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/SukhamGeek/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/SukhamGeek/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/SukhamGeek/LeetCode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
