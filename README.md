@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/SukhamGeek/LeetCode/tree/master/0139-word-break) |
 | [0542-01-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/SukhamGeek/LeetCode/tree/master/0741-cherry-pickup) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SukhamGeek/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1463-cherry-pickup-ii](https://github.com/SukhamGeek/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Hash Table
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SukhamGeek/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/SukhamGeek/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SukhamGeek/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SukhamGeek/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/SukhamGeek/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SukhamGeek/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/SukhamGeek/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/SukhamGeek/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/SukhamGeek/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SukhamGeek/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SukhamGeek/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/SukhamGeek/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/SukhamGeek/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SukhamGeek/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/SukhamGeek/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SukhamGeek/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/SukhamGeek/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [3310-remove-methods-from-project](https://github.com/SukhamGeek/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
@@ -361,9 +365,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SukhamGeek/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/SukhamGeek/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/SukhamGeek/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SukhamGeek/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
