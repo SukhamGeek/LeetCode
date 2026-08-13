@@ -9,7 +9,7 @@ public:
             int tar= -nums[i];
             int l= i+1;
             int r= n-1;
-            unordered_map<int,int> mpp;    
+            
             while(l<r){
                 int sum= nums[i]+nums[l]+ nums[r];
                 if(sum<0) l++;
