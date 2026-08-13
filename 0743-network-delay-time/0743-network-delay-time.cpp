@@ -7,18 +7,18 @@ public:
             adj[it[0]].push_back({it[1],it[2]});
         }
         priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
-        pq.push({k,0});
+        pq.push({0,k});
         vector<int> dis(n+1,INT_MAX);
         dis[k]=0;
         while(!pq.empty()){
-            auto[node, dist]= pq.top();
+            auto[dist, node]= pq.top();
             pq.pop();
             for(auto it: adj[node]){
                 int a= it.first;
                 int b= it.second;
                 if((b+dist)<dis[a]){
                     dis[a]= b+dist;
-                    pq.push({a, dis[a]});
+                    pq.push({dis[a], a});
                 }
             }
         }
