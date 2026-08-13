@@ -23,7 +23,6 @@ public:
             }
         }
         for(int i=1; i<=n; i++){
-            cout<<dis[i]<<endl;
             if(dis[i]> ans) ans= dis[i];
         }
         if(ans== INT_MAX) return -1;
