@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SukhamGeek/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/SukhamGeek/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/SukhamGeek/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1463-cherry-pickup-ii](https://github.com/SukhamGeek/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/SukhamGeek/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SukhamGeek/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/SukhamGeek/LeetCode/tree/master/0260-single-number-iii) |
+| [1386-cinema-seat-allocation](https://github.com/SukhamGeek/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SukhamGeek/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SukhamGeek/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/SukhamGeek/LeetCode/tree/master/0752-open-the-lock) |
 | [0874-walking-robot-simulation](https://github.com/SukhamGeek/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0939-minimum-area-rectangle](https://github.com/SukhamGeek/LeetCode/tree/master/0939-minimum-area-rectangle) |
+| [1386-cinema-seat-allocation](https://github.com/SukhamGeek/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/SukhamGeek/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Simulation
 |  |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1386-cinema-seat-allocation](https://github.com/SukhamGeek/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/SukhamGeek/LeetCode/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
