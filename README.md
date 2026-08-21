@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/SukhamGeek/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SukhamGeek/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SukhamGeek/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1861-rotating-the-box](https://github.com/SukhamGeek/LeetCode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SukhamGeek/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/SukhamGeek/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/SukhamGeek/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SukhamGeek/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SukhamGeek/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2906-construct-product-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SukhamGeek/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SukhamGeek/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SukhamGeek/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0229-majority-element-ii) |
 | [0939-minimum-area-rectangle](https://github.com/SukhamGeek/LeetCode/tree/master/0939-minimum-area-rectangle) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SukhamGeek/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SukhamGeek/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Two Pointers
 |  |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SukhamGeek/LeetCode/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/SukhamGeek/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/SukhamGeek/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SukhamGeek/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Design
 |  |
 | ------- |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1386-cinema-seat-allocation](https://github.com/SukhamGeek/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SukhamGeek/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/SukhamGeek/LeetCode/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -458,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/SukhamGeek/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SukhamGeek/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
