@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/SukhamGeek/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SukhamGeek/LeetCode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/SukhamGeek/LeetCode/tree/master/0204-count-primes) |
+| [0264-ugly-number-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0939-minimum-area-rectangle](https://github.com/SukhamGeek/LeetCode/tree/master/0939-minimum-area-rectangle) |
 | [1362-closest-divisors](https://github.com/SukhamGeek/LeetCode/tree/master/1362-closest-divisors) |
 | [2029-stone-game-ix](https://github.com/SukhamGeek/LeetCode/tree/master/2029-stone-game-ix) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/SukhamGeek/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SukhamGeek/LeetCode/tree/master/0139-word-break) |
+| [0264-ugly-number-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0542-01-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/SukhamGeek/LeetCode/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SukhamGeek/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/SukhamGeek/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/SukhamGeek/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0525-contiguous-array](https://github.com/SukhamGeek/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SukhamGeek/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0752-open-the-lock](https://github.com/SukhamGeek/LeetCode/tree/master/0752-open-the-lock) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0743-network-delay-time](https://github.com/SukhamGeek/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SukhamGeek/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/SukhamGeek/LeetCode/tree/master/1631-path-with-minimum-effort) |
