@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SukhamGeek/LeetCode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SukhamGeek/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/SukhamGeek/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SukhamGeek/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/SukhamGeek/LeetCode/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/SukhamGeek/LeetCode/tree/master/0741-cherry-pickup) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SukhamGeek/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SukhamGeek/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0229-majority-element-ii) |
+| [0721-accounts-merge](https://github.com/SukhamGeek/LeetCode/tree/master/0721-accounts-merge) |
 | [0939-minimum-area-rectangle](https://github.com/SukhamGeek/LeetCode/tree/master/0939-minimum-area-rectangle) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SukhamGeek/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SukhamGeek/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/SukhamGeek/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SukhamGeek/LeetCode/tree/master/0139-word-break) |
 | [0657-robot-return-to-origin](https://github.com/SukhamGeek/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0721-accounts-merge](https://github.com/SukhamGeek/LeetCode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/SukhamGeek/LeetCode/tree/master/0752-open-the-lock) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SukhamGeek/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SukhamGeek/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0525-contiguous-array](https://github.com/SukhamGeek/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SukhamGeek/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/SukhamGeek/LeetCode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/SukhamGeek/LeetCode/tree/master/0752-open-the-lock) |
 | [0874-walking-robot-simulation](https://github.com/SukhamGeek/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0939-minimum-area-rectangle](https://github.com/SukhamGeek/LeetCode/tree/master/0939-minimum-area-rectangle) |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SukhamGeek/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/SukhamGeek/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SukhamGeek/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SukhamGeek/LeetCode/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/SukhamGeek/LeetCode/tree/master/0752-open-the-lock) |
@@ -283,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/SukhamGeek/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0669-trim-a-binary-search-tree](https://github.com/SukhamGeek/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [0721-accounts-merge](https://github.com/SukhamGeek/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/SukhamGeek/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SukhamGeek/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/SukhamGeek/LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -299,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/SukhamGeek/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SukhamGeek/LeetCode/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/SukhamGeek/LeetCode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/SukhamGeek/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SukhamGeek/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/SukhamGeek/LeetCode/tree/master/1020-number-of-enclaves) |
