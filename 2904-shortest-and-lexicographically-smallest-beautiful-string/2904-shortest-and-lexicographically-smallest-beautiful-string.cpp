@@ -1,27 +1,39 @@
 class Solution {
 public:
     string shortestBeautifulSubstring(string s, int k) {
+        vector<vector<string>> res(s.size()+1);
         int n= s.size();
-        vector<vector<string>> res(n+1);
-        for(int i=0; i<n; i++){
-            string temp="";
-            int count=0;
-            for(int j=i; j<n; j++){
-                if(s[j]=='1'){
-                    count++;
-                } 
-                if(count>0) temp.push_back(s[j]);
-                if(count==k){
-                    int a= temp.size();
-                    res[a].push_back(temp);
-                    break;
-                } 
-            }
+        int r=0;
+        while(r<n && s[r]!='1'){
+            r++;
         }
-        for(int i=0; i<=n; i++){
-            if(res[i].size()>0){
-                sort(res[i].begin(), res[i].end());
-                return res[i][0];
+        int l=r;
+        if(r==n) return "";
+        int c=0;
+        int count=0;
+        string temp="";
+        while(r<n){
+            if(s[r]=='1') count++;
+            temp.push_back(s[r]);
+            if(count==k){
+                count--;
+                res[temp.size()].push_back(temp);
+                l++;
+                while(l<=r && s[l]!='1'){
+                    l++;
+                    c--;
+                }
+                temp= s.substr(l,c);
+                r++;
+                continue;
+            }
+            c++;
+            r++;
+        }
+        for(auto it: res){
+            if(it.size()>0){
+                sort(it.begin(), it.end());
+                return it[0];
             }
         }
         return "";
