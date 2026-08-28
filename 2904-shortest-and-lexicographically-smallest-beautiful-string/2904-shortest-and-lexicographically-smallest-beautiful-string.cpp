@@ -1,14 +1,14 @@
 class Solution {
 public:
     string shortestBeautifulSubstring(string s, int k) {
-        vector<vector<string>> res(s.size()+1);
+        string ans="";
         int n= s.size();
         int r=0;
         while(r<n && s[r]!='1'){
             r++;
         }
         int l=r;
-        if(r==n) return "";
+        if(r==n) return ans;
         int c=0;
         int count=0;
         string temp="";
@@ -17,7 +17,9 @@ public:
             temp.push_back(s[r]);
             if(count==k){
                 count--;
-                res[temp.size()].push_back(temp);
+                if(ans.empty() || temp.size()<ans.size() || (temp.size()== ans.size()&& temp<ans)){
+                    ans= temp;
+                }
                 l++;
                 while(l<=r && s[l]!='1'){
                     l++;
@@ -30,12 +32,6 @@ public:
             c++;
             r++;
         }
-        for(auto it: res){
-            if(it.size()>0){
-                sort(it.begin(), it.end());
-                return it[0];
-            }
-        }
-        return "";
+        return ans;
     }
 };
