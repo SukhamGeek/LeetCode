@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/SukhamGeek/LeetCode/tree/master/0752-open-the-lock) |
 | [0874-walking-robot-simulation](https://github.com/SukhamGeek/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/SukhamGeek/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/SukhamGeek/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0939-minimum-area-rectangle](https://github.com/SukhamGeek/LeetCode/tree/master/0939-minimum-area-rectangle) |
 | [0994-rotting-oranges](https://github.com/SukhamGeek/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SukhamGeek/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/SukhamGeek/LeetCode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/SukhamGeek/LeetCode/tree/master/0752-open-the-lock) |
 | [0874-walking-robot-simulation](https://github.com/SukhamGeek/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0904-fruit-into-baskets](https://github.com/SukhamGeek/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0939-minimum-area-rectangle](https://github.com/SukhamGeek/LeetCode/tree/master/0939-minimum-area-rectangle) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SukhamGeek/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1386-cinema-seat-allocation](https://github.com/SukhamGeek/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SukhamGeek/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/SukhamGeek/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/SukhamGeek/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SukhamGeek/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SukhamGeek/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
