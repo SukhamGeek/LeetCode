@@ -18,7 +18,6 @@ public:
                 }
             }
             count+= r-l+1;
-            cout<<count<<"-"<<r<<endl;
             r++;
         }
         return count;
