@@ -22,7 +22,6 @@ public:
             ans+= r-l+1;
             r++;
         }
-        cout<<num<<"-"<<ans<<endl;
         return ans;
     }
 };
