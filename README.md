@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/SukhamGeek/LeetCode/tree/master/0752-open-the-lock) |
 | [1021-remove-outermost-parentheses](https://github.com/SukhamGeek/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SukhamGeek/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1903-largest-odd-number-in-string](https://github.com/SukhamGeek/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SukhamGeek/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SukhamGeek/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SukhamGeek/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/SukhamGeek/LeetCode/tree/master/0939-minimum-area-rectangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SukhamGeek/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1362-closest-divisors](https://github.com/SukhamGeek/LeetCode/tree/master/1362-closest-divisors) |
+| [1903-largest-odd-number-in-string](https://github.com/SukhamGeek/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/SukhamGeek/LeetCode/tree/master/2029-stone-game-ix) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/SukhamGeek/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SukhamGeek/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1386-cinema-seat-allocation](https://github.com/SukhamGeek/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SukhamGeek/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/SukhamGeek/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/SukhamGeek/LeetCode/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SukhamGeek/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
