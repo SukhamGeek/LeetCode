@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/SukhamGeek/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0721-accounts-merge](https://github.com/SukhamGeek/LeetCode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/SukhamGeek/LeetCode/tree/master/0752-open-the-lock) |
+| [1021-remove-outermost-parentheses](https://github.com/SukhamGeek/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SukhamGeek/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SukhamGeek/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SukhamGeek/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/SukhamGeek/LeetCode/tree/master/0735-asteroid-collision) |
+| [1021-remove-outermost-parentheses](https://github.com/SukhamGeek/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -516,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SukhamGeek/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SukhamGeek/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SukhamGeek/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SukhamGeek/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
