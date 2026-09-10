@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/SukhamGeek/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/SukhamGeek/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SukhamGeek/LeetCode/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/SukhamGeek/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/SukhamGeek/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/SukhamGeek/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0721-accounts-merge](https://github.com/SukhamGeek/LeetCode/tree/master/0721-accounts-merge) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/SukhamGeek/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/SukhamGeek/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/SukhamGeek/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/SukhamGeek/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/SukhamGeek/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/SukhamGeek/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
