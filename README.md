@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SukhamGeek/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/SukhamGeek/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2906-construct-product-matrix](https://github.com/SukhamGeek/LeetCode/tree/master/2906-construct-product-matrix) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SukhamGeek/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SukhamGeek/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SukhamGeek/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SukhamGeek/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SukhamGeek/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/SukhamGeek/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/SukhamGeek/LeetCode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SukhamGeek/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SukhamGeek/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
@@ -530,4 +532,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/SukhamGeek/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SukhamGeek/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SukhamGeek/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
